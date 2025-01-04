@@ -1,10 +1,12 @@
 # Message-Mixer-Decoder
-This is a message-encryption service that transforms input text, using various ciphers, and displays the encrypted message to the console using the elements of JavaScript and NodeJS to test it.
+Hi Everyone and welcome back!
+I've developed another project focusing on the importance of encryption and decryption techniques. This is a great way of boosting confidentiality when working with information and sensitive data.
 
-To test the program use these following commands.
+This project is built on being a message-encryption service that transforms input text while using various ciphers. From there, it displays the encrypted message to the console.
 
-When testing and encoding a word follow these steps:
-
+**Instructions:**
+To test the program use the following commands:
+**Encryption Method**
 
 1. Open the terminal or command prompt on your computer.
 2. Navigate to the directory where the "message-mixer.js" file is located.
@@ -13,6 +15,7 @@ When testing and encoding a word follow these steps:
 5. Below should be your encoded message!
 
 Now here are the steps if you would like to reverse it:
+**Decryption Method**
 
 1. Open the terminal or command prompt on your computer.
 2. Navigate to the directory where the "message-mixer.js" file is located.
@@ -21,3 +24,4 @@ Now here are the steps if you would like to reverse it:
 5. Below should be your decoded message!
 
 Let me know what you think!
+Stay blessed!
