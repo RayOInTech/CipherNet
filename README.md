@@ -1,4 +1,4 @@
-# Message-Mixer-Decoder
+# CipherNet Message-Mixer-Decoder Program
 Hi Everyone and welcome back!
 I've developed another project focusing on the importance of encryption and decryption techniques. This is a great way of boosting confidentiality when working with information and sensitive data.
 
