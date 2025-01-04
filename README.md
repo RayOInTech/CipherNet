@@ -1,7 +1,6 @@
 
 # CipherNet Message-Mixer-Decoder Program
-
-[CipherNest_Logo_RayOInTech_Final.pdf](https://github.com/user-attachments/files/18308179/CipherNest_Logo_RayOInTech_Final.pdf)
+![CipherNest_Logo_RayOInTech](https://github.com/user-attachments/assets/45092565-6947-4ec5-9996-17bf69cd929c)
 
 
 Hi Everyone and welcome back!
